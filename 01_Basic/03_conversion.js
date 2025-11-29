@@ -1,3 +1,5 @@
+ 
+// type conversion
 
 /*
 let score = 33;        "33" it's a string type
