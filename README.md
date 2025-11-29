@@ -13,20 +13,20 @@ It is designed to help learners build strong JavaScript skills for:
 
 ## 📚 What’s Inside?
 
-✔ Variables, Data Types  
-✔ Operators  
-✔ Conditional Statements  
-✔ Loops  
-✔ Functions  
-✔ Arrays & Strings  
-✔ Objects  
-✔ DOM Manipulation  
-✔ ES6+ Concepts  
-✔ Practice Questions & Projects
+✅ Variables, Data Types  
+✅ Operators  
+✅ Conditional Statements  
+✅ Loops  
+✅ Functions  
+✅ Arrays & Strings  
+✅ Objects  
+✅ DOM Manipulation  
+✅ ES6+ Concepts  
+✅ Practice Questions & Projects
 
 ---
 
-## 📌 How to Use
+## 🤫 How to Use
 You can explore each folder step-by-step and run the code in:
 - Browser Console
 - VS Code Terminal (Node.js required)
