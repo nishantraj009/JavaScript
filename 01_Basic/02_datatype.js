@@ -3,6 +3,8 @@ let name = "nishant raj";
 let age = 19;
 let isLoggedIn = false;
 
+// primitive types :-
+
 // number = 23
 
 // string = ""
