@@ -12,7 +12,8 @@ console.log(typeof (score));  both type is number
  console.log(typeof score);  // Both are string
  console.log(typeof (score));
 
- let convertInNum = Number(score);
+ let convertInNum = Number(score); // here not write at Number's place number 
+ 
  console.log(typeof convertInNum);  // type is number
  console.log(convertInNum); //NaN, not a number 
 
