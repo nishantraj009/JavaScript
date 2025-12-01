@@ -5,7 +5,7 @@ const myArray = [0, 1, 2, 3, 4, 5];
 const myHeroes = ["thor", "ironman", "spiderman"];
 const myArray2 = new Array(1, 2, 3, 4);
 
-console.log("Original Array:", myArray);【11562.56】【11804.0】
+console.log("Original Array:", myArray);
 
 // ========================================
 // 02. ACCESSING ELEMENTS (Zero-based indexing)
@@ -69,8 +69,7 @@ const allHeroes1 = marvel.concat(dc);
 console.log("Concat:", allHeroes1);
 
 const allHeroes2 = [...marvel, ...dc];  // Spread operator (PREFERRED)
-console.log("Spread:", allHeroes2);【12921.84】【13044.8】
-
+console.log("Spread:", allHeroes2);
 // ========================================
 // 07. FLATTEN NESTED ARRAYS
 // ========================================
@@ -87,4 +86,4 @@ console.log("Flattened:", flatArray);  // [1,2,3,4,5,6,7,8,9,10]【13208.56】
 console.log("\n=== Array.from() & Array.of() ===");
 console.log(Array.from("hitesh"));                    // ['h','i','t','e','s','h']
 console.log(Array.from({length: 3}));                 // [undefined, undefined, undefined]
-console.log(Array
+console.log(Array);
