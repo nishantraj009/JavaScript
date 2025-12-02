@@ -1,13 +1,13 @@
 
 // OBJECT LITERALS
 
-// const student = {}  ,// this is object , empaty object
+// const student = {} , this is object , empaty object
 
 const user = {
-    name: "nishant";
-    age:20;
-    location: meerut;
+    name: "raj",
+    age:20,
+    location: "meerut",
 
-}
+};
 
 console.log(user.name);
