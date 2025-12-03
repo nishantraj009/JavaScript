@@ -1,5 +1,5 @@
 
-    🍵 JavaScript Introduction
+🍵 JavaScript Introduction
 
 What is JavaScript:-
 
@@ -130,3 +130,19 @@ Garbage collected memory management
 Dynamic typing
 
 Supports Modules (ESM & CommonJS)
+
+
+
+working of JS
+
+JS interacts with the DOM (Document Object Model)
+
+When a webpage loads:
+
+Browser reads HTML → Creates DOM Tree
+
+Browser reads CSS → Creates CSSOM
+
+JS can change HTML & style using DOM
+
+Example:
