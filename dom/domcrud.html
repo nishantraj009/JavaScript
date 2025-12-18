@@ -18,7 +18,7 @@
       }
     </style>
   </head> 
-  <!-- it's a comment node  -->
+  
    <body>
     <div>
       <h1>Simple DOM Todo App</h1>
@@ -34,7 +34,7 @@
 
       const addTodo = () => {
         console.log(inputElem.value);
-        // todoFirst.textContent = inputElem.value;
+         todoFirst.textContent = inputElem.value;
         let pElem = document.createElement("p");
         pElem.textContent = inputElem.value;
         console.log(pElem);
